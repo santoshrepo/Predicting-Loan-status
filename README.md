@@ -7,6 +7,8 @@ The target variable is of two types of levels;
 
 - y is the person got their loan sanctioned
 - n is the person failed to get their loan sanction.
+
+
 This dataset contains 12 descriptive variables:
 
 - Loan_ID: continuous
