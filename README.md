@@ -5,21 +5,21 @@ Insurance stream is one of the largest use of data analytics method when compare
 
 The target variable is of two types of levels;
 
-y - the person got their loan sanctioned
-n - the person failed to get their loan sanction.
+- y is the person got their loan sanctioned
+- n is the person failed to get their loan sanction.
 This dataset contains 12 descriptive variables:
 
-Loan_ID: continuous
-Gender: male and female
-Dependents: 0, 1, 2 and 3+
-Education: Graduate and Not Graduate
-Self_Employed: yes and no
-ApplicantIncome: continuous
-Co-applicantIncome: continuous
-LoanAmount: continuous
-Loan_Amount_Term: continuous
-Credit_History: 0 and 1
-Property_Area: Rural, Urban and semiurban
+- Loan_ID: continuous
+- Gender: male and female
+- Dependents: 0, 1, 2 and 3+
+- Education: Graduate and Not Graduate
+- Self_Employed: yes and no
+- ApplicantIncome: continuous
+- Co-applicantIncome: continuous
+- LoanAmount: continuous
+- Loan_Amount_Term: continuous
+- Credit_History: 0 and 1
+- Property_Area: Rural, Urban and semiurban
 
 # Methodology 
 
